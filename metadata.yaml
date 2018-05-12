@@ -1,0 +1,30 @@
+_repo: De-Dageraad-der-Volksvrijheid--13-Geschiedenis-van-de-wording-der-Nederlandsche-Republiek_34644
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Streckfuss, Adolf
+    aliases:
+    - Carl, Adolph
+    - Streckfuss, Adolph
+    birthdate: 1823
+    deathdate: 1895
+    gutenberg_agent_id: '37304'
+    url: http://www.gutenberg.org/2009/agents/37304
+description: ''
+gutenberg_issued: '2010-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34644'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648'
+title: "De Dageraad der Volksvrijheid\r\nGeschiedenis van de wording der Nederlandsche\
+  \ Republiek"
+url: http://www.gutenberg.org/ebooks/34644
